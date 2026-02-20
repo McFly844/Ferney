@@ -1,0 +1,7 @@
+C:\Martin844\Ferney\Variablesconstantesytiposdedatos\obj\Debug\Variablesconstantesytiposdedatos.csproj.AssemblyReference.cache
+C:\Martin844\Ferney\Variablesconstantesytiposdedatos\obj\Debug\Variablesconstantesytiposdedatos.csproj.CoreCompileInputs.cache
+C:\Martin844\Ferney\Variablesconstantesytiposdedatos\bin\Debug\Variablesconstantesytiposdedatos.exe.config
+C:\Martin844\Ferney\Variablesconstantesytiposdedatos\bin\Debug\Variablesconstantesytiposdedatos.exe
+C:\Martin844\Ferney\Variablesconstantesytiposdedatos\bin\Debug\Variablesconstantesytiposdedatos.pdb
+C:\Martin844\Ferney\Variablesconstantesytiposdedatos\obj\Debug\Variablesconstantesytiposdedatos.exe
+C:\Martin844\Ferney\Variablesconstantesytiposdedatos\obj\Debug\Variablesconstantesytiposdedatos.pdb

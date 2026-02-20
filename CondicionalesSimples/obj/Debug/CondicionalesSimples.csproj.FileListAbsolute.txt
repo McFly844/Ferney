@@ -1,0 +1,7 @@
+C:\Martin844\Ferney\CondicionalesSimples\bin\Debug\CondicionalesSimples.exe.config
+C:\Martin844\Ferney\CondicionalesSimples\bin\Debug\CondicionalesSimples.exe
+C:\Martin844\Ferney\CondicionalesSimples\bin\Debug\CondicionalesSimples.pdb
+C:\Martin844\Ferney\CondicionalesSimples\obj\Debug\CondicionalesSimples.csproj.AssemblyReference.cache
+C:\Martin844\Ferney\CondicionalesSimples\obj\Debug\CondicionalesSimples.csproj.CoreCompileInputs.cache
+C:\Martin844\Ferney\CondicionalesSimples\obj\Debug\CondicionalesSimples.exe
+C:\Martin844\Ferney\CondicionalesSimples\obj\Debug\CondicionalesSimples.pdb
