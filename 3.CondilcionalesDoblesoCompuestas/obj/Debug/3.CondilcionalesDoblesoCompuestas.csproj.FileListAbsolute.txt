@@ -1,0 +1,7 @@
+C:\Martin844\Ferney\3.CondilcionalesDoblesoCompuestas\bin\Debug\3.CondilcionalesDoblesoCompuestas.exe.config
+C:\Martin844\Ferney\3.CondilcionalesDoblesoCompuestas\bin\Debug\3.CondilcionalesDoblesoCompuestas.exe
+C:\Martin844\Ferney\3.CondilcionalesDoblesoCompuestas\bin\Debug\3.CondilcionalesDoblesoCompuestas.pdb
+C:\Martin844\Ferney\3.CondilcionalesDoblesoCompuestas\obj\Debug\3.CondilcionalesDoblesoCompuestas.csproj.AssemblyReference.cache
+C:\Martin844\Ferney\3.CondilcionalesDoblesoCompuestas\obj\Debug\3.CondilcionalesDoblesoCompuestas.csproj.CoreCompileInputs.cache
+C:\Martin844\Ferney\3.CondilcionalesDoblesoCompuestas\obj\Debug\3.CondilcionalesDoblesoCompuestas.exe
+C:\Martin844\Ferney\3.CondilcionalesDoblesoCompuestas\obj\Debug\3.CondilcionalesDoblesoCompuestas.pdb
