@@ -1,0 +1,7 @@
+C:\Martin844\Ferney\5.CondicionalesAnidados\bin\Debug\5.CondicionalesAnidados.exe.config
+C:\Martin844\Ferney\5.CondicionalesAnidados\bin\Debug\5.CondicionalesAnidados.exe
+C:\Martin844\Ferney\5.CondicionalesAnidados\bin\Debug\5.CondicionalesAnidados.pdb
+C:\Martin844\Ferney\5.CondicionalesAnidados\obj\Debug\5.CondicionalesAnidados.csproj.AssemblyReference.cache
+C:\Martin844\Ferney\5.CondicionalesAnidados\obj\Debug\5.CondicionalesAnidados.csproj.CoreCompileInputs.cache
+C:\Martin844\Ferney\5.CondicionalesAnidados\obj\Debug\5.CondicionalesAnidados.exe
+C:\Martin844\Ferney\5.CondicionalesAnidados\obj\Debug\5.CondicionalesAnidados.pdb
