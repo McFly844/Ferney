@@ -1,0 +1,7 @@
+C:\Martin844\Ferney\7.CondicionalesMultiples.OperadorTernario\bin\Debug\7.CondicionalesMultiples.OperadorTernario.exe.config
+C:\Martin844\Ferney\7.CondicionalesMultiples.OperadorTernario\bin\Debug\7.CondicionalesMultiples.OperadorTernario.exe
+C:\Martin844\Ferney\7.CondicionalesMultiples.OperadorTernario\bin\Debug\7.CondicionalesMultiples.OperadorTernario.pdb
+C:\Martin844\Ferney\7.CondicionalesMultiples.OperadorTernario\obj\Debug\7.CondicionalesMultiples.OperadorTernario.csproj.AssemblyReference.cache
+C:\Martin844\Ferney\7.CondicionalesMultiples.OperadorTernario\obj\Debug\7.CondicionalesMultiples.OperadorTernario.csproj.CoreCompileInputs.cache
+C:\Martin844\Ferney\7.CondicionalesMultiples.OperadorTernario\obj\Debug\7.CondicionalesMultiples.OperadorTernario.exe
+C:\Martin844\Ferney\7.CondicionalesMultiples.OperadorTernario\obj\Debug\7.CondicionalesMultiples.OperadorTernario.pdb
