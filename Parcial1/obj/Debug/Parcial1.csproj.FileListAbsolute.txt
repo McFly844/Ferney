@@ -1,0 +1,7 @@
+C:\Martin844\Ferney\Parcial1\bin\Debug\Parcial1.exe.config
+C:\Martin844\Ferney\Parcial1\bin\Debug\Parcial1.exe
+C:\Martin844\Ferney\Parcial1\bin\Debug\Parcial1.pdb
+C:\Martin844\Ferney\Parcial1\obj\Debug\Parcial1.csproj.AssemblyReference.cache
+C:\Martin844\Ferney\Parcial1\obj\Debug\Parcial1.csproj.CoreCompileInputs.cache
+C:\Martin844\Ferney\Parcial1\obj\Debug\Parcial1.exe
+C:\Martin844\Ferney\Parcial1\obj\Debug\Parcial1.pdb
