@@ -1,0 +1,7 @@
+C:\Martin844\Ferney\9.AcumuladoryContador\bin\Debug\9.AcumuladoryContador.exe.config
+C:\Martin844\Ferney\9.AcumuladoryContador\bin\Debug\9.AcumuladoryContador.exe
+C:\Martin844\Ferney\9.AcumuladoryContador\bin\Debug\9.AcumuladoryContador.pdb
+C:\Martin844\Ferney\9.AcumuladoryContador\obj\Debug\9.AcumuladoryContador.csproj.AssemblyReference.cache
+C:\Martin844\Ferney\9.AcumuladoryContador\obj\Debug\9.AcumuladoryContador.csproj.CoreCompileInputs.cache
+C:\Martin844\Ferney\9.AcumuladoryContador\obj\Debug\9.AcumuladoryContador.exe
+C:\Martin844\Ferney\9.AcumuladoryContador\obj\Debug\9.AcumuladoryContador.pdb
