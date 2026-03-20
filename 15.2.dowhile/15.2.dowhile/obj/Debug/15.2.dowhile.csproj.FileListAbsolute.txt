@@ -1,0 +1,7 @@
+C:\mop84\15.2.dowhile\15.2.dowhile\bin\Debug\15.2.dowhile.exe.config
+C:\mop84\15.2.dowhile\15.2.dowhile\bin\Debug\15.2.dowhile.exe
+C:\mop84\15.2.dowhile\15.2.dowhile\bin\Debug\15.2.dowhile.pdb
+C:\mop84\15.2.dowhile\15.2.dowhile\obj\Debug\15.2.dowhile.csproj.AssemblyReference.cache
+C:\mop84\15.2.dowhile\15.2.dowhile\obj\Debug\15.2.dowhile.csproj.CoreCompileInputs.cache
+C:\mop84\15.2.dowhile\15.2.dowhile\obj\Debug\15.2.dowhile.exe
+C:\mop84\15.2.dowhile\15.2.dowhile\obj\Debug\15.2.dowhile.pdb
