@@ -1,0 +1,7 @@
+C:\mop84\16.ciclosfor\16.ciclosfor\bin\Debug\16.ciclosfor.exe.config
+C:\mop84\16.ciclosfor\16.ciclosfor\bin\Debug\16.ciclosfor.exe
+C:\mop84\16.ciclosfor\16.ciclosfor\bin\Debug\16.ciclosfor.pdb
+C:\mop84\16.ciclosfor\16.ciclosfor\obj\Debug\16.ciclosfor.csproj.AssemblyReference.cache
+C:\mop84\16.ciclosfor\16.ciclosfor\obj\Debug\16.ciclosfor.csproj.CoreCompileInputs.cache
+C:\mop84\16.ciclosfor\16.ciclosfor\obj\Debug\16.ciclosfor.exe
+C:\mop84\16.ciclosfor\16.ciclosfor\obj\Debug\16.ciclosfor.pdb
