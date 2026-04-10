@@ -1,0 +1,7 @@
+D:\tallerparcial2\bin\Debug\tallerparcial2.exe.config
+D:\tallerparcial2\bin\Debug\tallerparcial2.exe
+D:\tallerparcial2\bin\Debug\tallerparcial2.pdb
+D:\tallerparcial2\obj\Debug\tallerparcial2.csproj.AssemblyReference.cache
+D:\tallerparcial2\obj\Debug\tallerparcial2.csproj.CoreCompileInputs.cache
+D:\tallerparcial2\obj\Debug\tallerparcial2.exe
+D:\tallerparcial2\obj\Debug\tallerparcial2.pdb
