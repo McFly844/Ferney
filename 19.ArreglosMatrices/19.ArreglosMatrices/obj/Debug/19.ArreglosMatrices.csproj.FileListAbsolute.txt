@@ -1,0 +1,7 @@
+C:\mop84\19.ArreglosMatrices\19.ArreglosMatrices\bin\Debug\19.ArreglosMatrices.exe.config
+C:\mop84\19.ArreglosMatrices\19.ArreglosMatrices\bin\Debug\19.ArreglosMatrices.exe
+C:\mop84\19.ArreglosMatrices\19.ArreglosMatrices\bin\Debug\19.ArreglosMatrices.pdb
+C:\mop84\19.ArreglosMatrices\19.ArreglosMatrices\obj\Debug\19.ArreglosMatrices.csproj.AssemblyReference.cache
+C:\mop84\19.ArreglosMatrices\19.ArreglosMatrices\obj\Debug\19.ArreglosMatrices.csproj.CoreCompileInputs.cache
+C:\mop84\19.ArreglosMatrices\19.ArreglosMatrices\obj\Debug\19.ArreglosMatrices.exe
+C:\mop84\19.ArreglosMatrices\19.ArreglosMatrices\obj\Debug\19.ArreglosMatrices.pdb
