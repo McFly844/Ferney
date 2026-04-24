@@ -1,0 +1,7 @@
+C:\mop84\20.ProgramacionModular\bin\Debug\20.ProgramacionModular.exe.config
+C:\mop84\20.ProgramacionModular\bin\Debug\20.ProgramacionModular.exe
+C:\mop84\20.ProgramacionModular\bin\Debug\20.ProgramacionModular.pdb
+C:\mop84\20.ProgramacionModular\obj\Debug\20.ProgramacionModular.csproj.AssemblyReference.cache
+C:\mop84\20.ProgramacionModular\obj\Debug\20.ProgramacionModular.csproj.CoreCompileInputs.cache
+C:\mop84\20.ProgramacionModular\obj\Debug\20.ProgramacionModular.exe
+C:\mop84\20.ProgramacionModular\obj\Debug\20.ProgramacionModular.pdb
